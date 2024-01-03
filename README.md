@@ -4,9 +4,9 @@ Create an Area Calculator console application, where user can choose between cal
 
 
 <h3>How to run the project</h3>
-<p>open cmd tap g++ clsArea.cpp after click enter</p>
-<p>will create auto file executable a.exe</p>
-<p>acces on a.exe and type enter</p>
+<li>open cmd tap g++ clsArea.cpp after click enter</li>
+<li>will create auto file executable a.exe</li>
+<li>acces on a.exe and type enter</li>
 
 <h3>Demo About The Project</h3>
 
